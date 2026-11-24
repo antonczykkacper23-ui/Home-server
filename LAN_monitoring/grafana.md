@@ -10,7 +10,7 @@
         </ul>
       <p>
         screenshot:
-        <img scr="./images/grafana_ct_general.png"/>
+        <img scr="./images/grafana_ct_general.png">
       </p>
       <h5>Template</h5>
       <p>Choosing standard debian container template</p>
