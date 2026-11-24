@@ -10,30 +10,35 @@
         </ul>
       <p>
         screenshot:
+        <br>
         <img src="./images/grafana_ct_general.png"/>
       </p>
       <h5>Template</h5>
       <p>Choosing standard debian container template</p>
       <p>
         screenshot:
+        <br>
         <img src="./images/grafana_ct_template.png"/>
       </p>
       <h5>Disk</h5>
       <p>Setting disk space to 5GiB</p>    
       <p>
         screenshot:
+        <br>
         <img src="./images/grafana_ct_disk.png"/>
       </p>
       <h5>CPU</h5>
       <p>Deafult settings (1 core)</p>
       <p>
         screenshot:
+        <br>
         <img src="./images/grafana_ct_CPU.png"/>
       </p>
       <h5>RAM memory</h5>
       <p>Memory set to 1024MiB and swap to 512MiB</p>
       <p>
         screenshot:
+        <br>
         <img src="./images/grafana_ct_RAM.png"/>
       </p>
       <h5>Network connection</h5>
@@ -48,6 +53,7 @@
       </ul>
       <p>
         screenshot:
+        <br>
         <img src="./images/grafana_ct_network.png"/>
       </p>
       <h5>DNS</h5>
